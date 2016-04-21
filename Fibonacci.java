@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> f252099802dfb8cc5de09f250200430e9f34ba16
 public class Fibonacci {
 	public static int recfib(int n)
 	{
@@ -21,5 +25,8 @@ public class Fibonacci {
 		return res[n];
 	}
 }
+<<<<<<< HEAD
 
 // Test
+=======
+>>>>>>> f252099802dfb8cc5de09f250200430e9f34ba16
